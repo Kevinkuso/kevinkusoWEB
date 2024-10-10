@@ -1,0 +1,85 @@
+/*NAV BAR*/
+.btn, .btn-primary, .btn-lg:hover{
+    color: black;
+}
+.nav-link, .mx-lg-2:hover{
+    background-color: #black;
+}
+.container-fluid {
+    color: darkred;
+}
+.navbar, .navbar-expand-lg {
+    background-color:#D2B48C ;
+}
+.nav-link, .mx-lg-2{
+    color: #CC7722;
+    font-family: cursive;
+    text-decoration: underline;
+}
+nav img {
+    height: 60px;
+}
+nav h1 {
+    color:#4A0404;
+    font-family: audiowide;
+}
+
+}
+/*HEADER*/
+ header {
+    background-image: url(background1.jpg);
+    background-size: cover;
+}
+.bg-dark, .py-5 {
+    color:  #EADDCA ;
+     background-image: url(background1.jpg);
+    background-size: cover;
+}
+
+
+main h4{
+    text-align: center;
+    font-size: 40px;
+    color: #4A0404;
+    font-family:audiowide ;
+    padding-bottom: 20px;
+}
+.food-container {
+    background-size: cover;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    grid-gap: 30px;
+    
+    }
+.food:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+
+}
+main {
+     background-color:#f9f6f5
+
+}
+
+
+.food-item{
+    font-size: 30px;
+   text-align: center;
+   text-decoration: none;
+   color:  #4A0404;
+   font-family: audiowide;
+}
+.food > img {
+    height: 80vh;
+    width: 80vh;
+
+}
+/*OUR CHEFS*/
+.container .overflow-hidden{
+    background-color:#f9f6f5 ;
+}
+.bg-light, .rounded-3, .py-5, .px-4, .px-md-5, .mb-5{
+    background-color
+}
